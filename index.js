@@ -124,4 +124,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login('TOKEN_HENA');
+client.login('MTU0NDM0MDA3NTA3NTA4NDM1OA.GtJhb2.Gffx3SUF1eZ_j8XvrCtNWGAc8My19rRo3QioCA');
